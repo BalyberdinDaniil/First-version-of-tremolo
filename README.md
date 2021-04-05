@@ -1,5 +1,5 @@
 # arduino_tremolo
-h1 Easy tremolo effect.
+Easy tremolo effect.
 Scheme based on photoresist and LED, where arduino is variable type wave oscillator.
 In this project I used arduino pro mini with [mozzi library](https://sensorium.github.io/Mozzi/).
 Effect has three parameter
