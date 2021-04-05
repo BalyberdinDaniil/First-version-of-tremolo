@@ -12,3 +12,5 @@ Effect has three parameter
 
 Also, you can plug pedal/button for tap tempo (pin3) and plug sync signal (pin2). Second in priority.
 
+Scheme this project (sorry, without 3pdt switch)
+![Picture of scheme](https://psv4.userapi.com/c505536/u207131172/docs/d45/12b34bd5c89a/tremolo_skhema.png?extra=i8L9-xkBgjZQke3kFejkKpKMDGIyQflPXjQIk6HTYd-IjgeiakBcpmrqQV_RL-qrV5ku3l1E7rbPRlqkLysgE-xLw3DeuurMAvxtpbKDi--I_zEj3tfbRigH0j8GHYc2um4_S68VG8WHS3Rqs4g7K-2tSw)
