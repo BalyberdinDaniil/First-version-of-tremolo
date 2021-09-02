@@ -1,4 +1,4 @@
-# arduino_tremolo
+# First version of tremolo.
 Easy tremolo effect.
 
 Scheme based on photoresist and LED, where arduino is variable type wave oscillator.
