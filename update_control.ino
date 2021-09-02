@@ -5,6 +5,6 @@ int readAnalogInput(uint8_t input, uint8_t maxValue) {
 
 void updateControl() {
   freq = readAnalogInput(2, 254) + 1;
-  depth = readAnalogInput(1, 32);
+  depth = readAnalogInput(1, 64);
   wave = readAnalogInput(0, 255);
 }
