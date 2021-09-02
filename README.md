@@ -12,5 +12,5 @@ Effect has three parameter
 
 Also, I plan add tap tempo, sync signal, switch osc to env
 
-Scheme this project (sorry, without 3pdt switch)
+Scheme this project:
 ![Picture of scheme](https://psv4.userapi.com/c536436/u207131172/docs/d43/749456ea5919/tremolo_skhema.png?extra=ZyHp4xzQc0x_N0nXReYJDTeR-U5PbH2Vm2Q-u0uukKDSnsntDPQrh7b58kYvWtxw_ydqj7k3g9h-RtTrR9bpm2GL9PEjWLn1JCM4W8_Do1kPSSlLlFO17-VF9mFLZTa4infWPkEVBAwzHregWJsWgUlqzw&dl=1)
