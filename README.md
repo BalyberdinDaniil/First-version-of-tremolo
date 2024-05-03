@@ -8,7 +8,7 @@ In this project I used arduino pro mini with [mozzi library](https://sensorium.g
 Effect has three parameter
 1. Frequency.
 2. Depth.
-3. Waveform - /| /\ ¯|_ |\ (sawtooth, triangle, square, revers sawtooth)
+3. Waveform - /| ¯|_ |\ /\   (sawtooth bottom to top, square, triangle, sawtooth top to bottom)
 
 Also, I plan add tap tempo, sync signal, switch osc to env
 
